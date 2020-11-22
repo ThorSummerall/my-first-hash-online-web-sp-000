@@ -45,4 +45,4 @@ def adding
   return shipping_manifest
 end
 
-adding
+puts adding
